@@ -19,7 +19,7 @@
 }
 
 .lbLoading {
-	background: #fff url(https://raw.githubusercontent.com/alonrotem/alonintheworld/gh-pages/PostScripts/Slimbox/loading.gif) no-repeat center;
+	background: #fff url(https://alonrotem.github.io/alonintheworld/PostScripts/Slimbox/loading.gif) no-repeat center;
 }
 
 #lbImage {
@@ -43,7 +43,7 @@
 }
 
 #lbPrevLink:hover {
-	background: transparent url(https://raw.githubusercontent.com/alonrotem/alonintheworld/gh-pages/PostScripts/Slimbox/nextlabel.gif) no-repeat 100% 15%;
+	background: transparent url(https://alonrotem.github.io/alonintheworld/PostScripts/Slimbox/nextlabel.gif) no-repeat 100% 15%;
 }
 
 #lbNextLink {
@@ -51,7 +51,7 @@
 }
 
 #lbNextLink:hover {
-	background: transparent url(https://raw.githubusercontent.com/alonrotem/alonintheworld/gh-pages/PostScripts/Slimbox/nextlabel.gif) no-repeat 0 15%;
+	background: transparent url(https://alonrotem.github.io/alonintheworld/PostScripts/Slimbox/nextlabel.gif) no-repeat 0 15%;
 }
 
 #lbBottom {
@@ -70,7 +70,7 @@
 	float: left;
 	width: 66px;
 	height: 22px;
-	background: transparent url(https://raw.githubusercontent.com/alonrotem/alonintheworld/gh-pages/PostScripts/Slimbox/closelabel.gif) no-repeat center;
+	background: transparent url(https://alonrotem.github.io/alonintheworld/PostScripts/Slimbox/closelabel.gif) no-repeat center;
 	margin: 5px 0;
 	outline: none;
 }
